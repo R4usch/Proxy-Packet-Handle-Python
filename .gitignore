@@ -1,0 +1,5 @@
+patterns_destination/*
+!patterns_destination/example.txt
+
+patterns_source/*
+!patterns_source/example.txt
